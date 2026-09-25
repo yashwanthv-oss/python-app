@@ -1,7 +1,7 @@
 site_name: 'python-app'
 site_description: 'Main documentation for Python apps'
 repo_url: https://github.com/yashwanthv-oss/python-app/
-edit_uri: blob/main/docs
+edit_uri: blob/main/docs/
 
 plugins:
   - techdocs-core
