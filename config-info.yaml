@@ -3,6 +3,7 @@ kind: Component
 metadata:
   name: python-app
   description: A Python App That Displays Time.
+  backstage.io/techdocs-ref: dir:.
   # Example for optional annotations
   # annotations:
   #   github.com/project-slug: backstage/backstage

@@ -1,0 +1,12 @@
+site_name: 'python-app'
+site_description: 'Main documentation for Python apps'
+repo_url: https://github.com/yashwanthv-oss/python-app
+edit_uri: edit/main/docs
+
+plugins:
+  - techdocs-core
+
+# For sidebar navigation on https://backstage.io/, see `microsite/sidebars.js`
+nav:
+  - Overview:
+      - Getting Started: 'docs/index.md'
