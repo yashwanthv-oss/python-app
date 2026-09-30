@@ -5,6 +5,7 @@ metadata:
   description: A Python App That Displays Time.
   annotations:
     backstage.io/techdocs-ref: dir:.
+    jira.com/project-key: SC
   # Example for optional annotations
   # annotations:
   #   github.com/project-slug: backstage/backstage
